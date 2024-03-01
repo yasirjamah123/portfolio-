@@ -36,4 +36,6 @@ To run the project locally, follow these steps:
 ## Deployment
 
 The project is deployed on Netlify. Visit [My Portfolio](https://yasir-jamah-react-portfolio.netlify.app/) to view the live site.
+gitgub deployment link : https://yasirjamah123.github.io/portfolio-/
+
 
