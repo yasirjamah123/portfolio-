@@ -1,0 +1,17 @@
+footer{
+    border-top: 2px solid #ffbe3f;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.footer-logo{
+    height: 40px;
+}
+.social-links{
+    font-size: 20px;
+}
+
+.social-links a{
+    color: #ffbe3f;
+}

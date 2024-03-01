@@ -1,0 +1,13 @@
+.social-links-contact a{
+    font-size: 28px !important;
+    color: #ffbe3f !important;
+}
+.form-control,.form-control:focus {
+    border-color: #ffbe3f !important;
+    color: #FFF;
+    background-color: #000;
+}
+
+.form-control::placeholder{
+    color: #c0c0c0 !important;
+}
