@@ -66,35 +66,31 @@ const Resume = () => {
           >
             <h3 className="resume-heading fw-bold">Professional Experience:</h3>
             <div className="mb-4">
-              <h4 className="experience-title">Transport for London (TfL)</h4>
+              <h4 className="experience-title">serco</h4>
               <ul>
                 <li>
-                  Resolved complex issues related to fines, congestion charges,
-                  and escalated cases, ensuring passenger satisfaction.
+                Collaborated with the engineering team to manage and enhance the company's web presence using Agile and Scrum approaches.
                 </li>
                 <li>
-                  Developed expert-level knowledge of TfL's policies and
-                  regulations, providing accurate assistance to passengers.
+                Translated complex engineering concepts into user-friendly web interfaces, ensuring seamless device adaptation through responsive web design.
                 </li>
                 <li>
                   Collaborated with cross-functional teams to streamline case
                   handling processes, resulting in improved efficiency.
                 </li>
                 <li>
-                  Actively participated in ongoing training to stay updated on
-                  transportation regulations and advanced customer service
-                  strategies.
+                Utilized HTML, CSS, and JavaScript to maintain and optimize the company website.
+                Conducted regular code reviews focusing on performance and security, incorporating feedback into iterative development cycles.
                 </li>
               </ul>
             </div>
             <div className="mb-4">
               <h4 className="experience-title">
-                HMRC (Her Majesty's Revenue and Customs)
+                free lance web development 
               </h4>
               <ul>
                 <li>
-                  Provided exceptional customer service to taxpayers, addressing
-                  inquiries and resolving tax-related issues.
+                •	Delivered tailored web solutions for various clients, from startups to established businesses, using Agile project management.
                 </li>
                 <li>
                   Demonstrated expertise in tax policies, regulations, and
